@@ -1,5 +1,4 @@
 DeepSeek
-梁文锋
 
 华为
 鸿蒙
@@ -46,9 +45,11 @@ sora
 claude
 Anthropic
 
+苹果
+!水果
 iphone
 ipad
-mac
+macbook
 ios
 
 ai
@@ -61,6 +62,7 @@ ai
 
 国产
 中国
+上海
 
 美国
 俄罗斯
@@ -101,3 +103,7 @@ CS2
 平板
 Android
 安卓
+
+体育
+篮球
+足球
